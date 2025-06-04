@@ -1,0 +1,2 @@
+print ("teste")
+input ("pressione")
