@@ -1,2 +1,2 @@
-print ("teste!")
+print ("teste")
 input ("pressione")
